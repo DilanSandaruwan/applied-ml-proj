@@ -2,7 +2,7 @@
 **Candidate:** Sandaruwan M.N.D.
 **Degree:** Master of Science in Artificial Intelligence  
 **Module:** Applied Machine Learning Final Assignment
-
+**Github Repository Link:** https://github.com/DilanSandaruwan/applied-ml-proj.git
 ---
 
 ## Overview
